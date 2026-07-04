@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bfgnet/agente_permea/releases/download/v0.2.0/permea_0.2.0_windows_amd64.zip",
+            "bin": [
+                "permea.exe"
+            ],
+            "hash": "5b0490ac75bfb3372004a49a3b32b8433728ba1f70ab726035e5fc9364e06e13"
+        }
+    },
+    "homepage": "https://github.com/bfgnet/agente_permea",
+    "license": "Apache-2.0",
+    "description": "Medidor local de coste de IA con frontera de datos (local-first)"
+}
