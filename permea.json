@@ -1,12 +1,12 @@
 {
-    "version": "0.9.0",
+    "version": "0.10.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/permea-dev/agent/releases/download/v0.9.0/permea_0.9.0_windows_amd64.zip",
+            "url": "https://github.com/permea-dev/agent/releases/download/v0.10.0/permea_0.10.0_windows_amd64.zip",
             "bin": [
                 "permea.exe"
             ],
-            "hash": "f35e27a357ec3ee655554335a30a2e3671c1463a5efc71361efccd91805ceb84"
+            "hash": "7ca19d70bc8572da4dbc6e23b9941439853c85e7bc7fda633f27adf08157a552"
         }
     },
     "homepage": "https://github.com/permea-dev/agent",
